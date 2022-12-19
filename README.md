@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dh-46&label=Profile%20views&color=0e75b6&style=flat" alt="dh-46" /> </p>
 
-- 🌱 I’m currently learning **Kotlin & Android Jetpack**
+- 🌱 I’m currently learning **Android TDD and Design Patterns**
 
 - 👨‍💻 All of my projects are available at [https://dh-46.github.io/portfolio](https://dh-46.github.io/portfolio)
 
 - 📝 I regularly write articles on [https://medium.com/dh-blog](https://medium.com/dh-blog)
 
-- 💬 Ask me about **Java, Android, Git**
+- 💬 Ask me about **Java, Android, Git, Firebase, Google Map SDK**
 
 - 📫 How to reach me **danielhuang.work@gmail.com**
 
