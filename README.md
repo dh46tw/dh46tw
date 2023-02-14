@@ -5,24 +5,24 @@
 
 - 🌱 I’m currently learning **Android TDD and Design Patterns**
 
-- 👨‍💻 All of my projects are available at [https://dh-46.github.io/portfolio](https://dh-46.github.io/portfolio)
+<!-- - 👨‍💻 All of my projects are available at [https://dh-46.github.io/portfolio](https://dh-46.github.io/portfolio) -->
 
-- 📝 I regularly write articles on [https://medium.com/dh-blog](https://medium.com/dh-blog)
+- 📝 I regularly write articles on [Medium](https://dh46-tw.medium.com/) & [HackMD](https://hackmd.io/@dh46tw)
 
 - 💬 Ask me about **Java, Android, Git, Firebase, Google Map SDK**
 
 - 📫 How to reach me **danielhuang.work@gmail.com**
 
-- 📄 Know about my experiences [https://dh-46.github.io/resume](https://dh-46.github.io/resume)
+<!-- - 📄 Know about my experiences [https://dh-46.github.io/resume](https://dh-46.github.io/resume) -->
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniel-huang-2017" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="daniel-huang-2017" height="30" width="40" /></a>
-<a href="https://medium.com/@dh-blog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dh-blog" height="30" width="40" /></a>
+<a href="https://dh46-tw.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dh-blog" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
