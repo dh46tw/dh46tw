@@ -7,9 +7,9 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://dh-46.github.io/portfolio](https://dh-46.github.io/portfolio) -->
 
-- 📝 I regularly write articles on [Medium](https://dh46-tw.medium.com/) & [HackMD](https://hackmd.io/@dh46tw)
+- 📝 I regularly write articles on [Medium](https://dh46-tw.medium.com/), [HackMD](https://hackmd.io/@dh46tw) & [iT 邦幫忙](https://ithelp.ithome.com.tw/users/20160271)
 
-- 💬 Ask me about **Java, Android, Git, Firebase, Google Map SDK**
+- 💬 Ask me about **Java, Kotlin, Android, Git, Firebase, Google Maps SDK for Android**
 
 - 📫 How to reach me **danielhuang.work@gmail.com**
 
@@ -30,7 +30,7 @@
 
 <h3 align="left">Certificates:</h3>
 
-<p>&nbsp;<img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/56248683" alt="https://www.credential.net/369f4195-930e-4f41-9109-88b8be155ca3" /></p>
+<p>&nbsp;<a href="https://www.credential.net/369f4195-930e-4f41-9109-88b8be155ca3"><img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56248683" alt="Associate Android Developer Certificate"/></a></p>
 
 <h3 align="left">Stats:</h3>
 
