@@ -7,7 +7,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://dh-46.github.io/portfolio](https://dh-46.github.io/portfolio) -->
 
-- 📝 I regularly write articles on [Medium](https://dh46-tw.medium.com/), [HackMD](https://hackmd.io/@dh46tw) & [iT 邦幫忙](https://ithelp.ithome.com.tw/users/20160271)
+- 📝 I regularly write articles on [DH's Blog](dh-46.github.io)
 
 - 💬 Ask me about **Java, Kotlin, Android, Git, Firebase, Google Maps SDK for Android**
 
