@@ -53,8 +53,6 @@ I specialize in integrating GIS features into Android apps with practical use of
 - **GeoJSON / KML**: Parsing, rendering, and styling vector data for custom layers
 - **Android Location Services**: Fused location provider, geofencing, and background tracking
 
----
-
 ## 🚀 Open Source Projects
 
 Here are some open-source projects I've built or contributed to:
@@ -63,30 +61,22 @@ Here are some open-source projects I've built or contributed to:
 - [ismaeldivita/chip-navigation-bar](https://github.com/ismaeldivita/chip-navigation-bar) – An android navigation bar widget  
 - [sonar-pdf-report plugin](https://github.com/dh46tw/sonar-pdf-report) – A plugin for exporting SonarQube reports in PDF format
 
----
-
 ## 🏆 Achievements & Certifications
 
 - [Google Certified Associate Android Developer (Java)](https://www.credential.net/369f4195-930e-4f41-9109-88b8be155ca3)
 - [Honorable Mention in the Mobile Development Category of the 2023 iThome Ironman Contest](https://ithelp.ithome.com.tw/users/20160271/ironman/6465)
 - Published technical articles on [Medium](https://medium.com/@dh46tw) and [iThelp](https://ithelp.ithome.com.tw/users/20160271/articles) with over 6,000 reads
 
----
-
 ## ✍️ Blog & Writing
 
 I write about Android development, system design, and real-world lessons from building apps.  
 📖 [Visit my blog →](https://dh46tw.github.io)
-
----
 
 ## 📬 Get in Touch
 
 - GitHub: [@dh46tw](https://github.com/dh46tw)  
 - LinkedIn: [Daniel Huang](https://linkedin.com/in/daniel-huang-2017)  
 - Email: danielhuang.work@gmail.com
-
----
 
 ## GitHub Stats
 
