@@ -38,7 +38,7 @@ I’m a passionate Android developer from Taiwan, focused on building high-quali
 ## 🛠 Tech Stack
 
 - **Languages & Frameworks**: Kotlin, Java, Jetpack Compose, Coroutines, RxJava  
-- **Architecture**: MVVM, MVP, Clean Architecture, Modularization  
+- **Architecture**: MVVM, MVP, MVI  
 - **Tools & Platforms**: Android Studio, Firebase, Git, GitHub Actions, Play Console, Google Analytics
 - **Testing & Quality**: JUnit, Espresso, MockK, SonarQube, MobSF
 
